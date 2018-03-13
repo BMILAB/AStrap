@@ -85,9 +85,9 @@ Aligndata <- extract_IsoSeq_tr(Aligndata,trSequence)
 ```
 ##Loading the consensus matrix of sequences of the [-2,+3] region of acceptor sites.
 load(system.file("data","example_PWM_acceptor.Rdata",package = "AStrap"))
-Loading the consensus matrix of the sequences of the [-2,+3] region of donor sites
+##Loading the consensus matrix of the sequences of the [-2,+3] region of donor sites
 load(system.file("data","example_PWM_donor.Rdata",package = "AStrap"))
-Constructing the feature space
+##Constructing the feature space
 feature <- getFeature(Aligndata)
 ```
 
