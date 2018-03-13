@@ -39,7 +39,7 @@ In order to facilitate user understanding, we use the provided example dataset t
 Section 1 Data loading
 ---------
 For identification AS events and prediction AS types, first the user should load data into AStrap.
-* Use funciton "readDNAStringSet" to read transcriptome sequences (FASTA format).
+* Use function "readDNAStringSet" to read transcriptome sequences (FASTA format).
 ```
 ##Loading transcript sequences
 trSequence.path <- system.file("extdata","example_TRsequence.fasta",package = "AStrap")
