@@ -1,0 +1,20 @@
+AStrap                  Identification AS events and classification AS
+                        types.
+buildTrainModel         Classification models.
+extract_IsoSeq_ge       Extract the sequence around splice sites based
+                        on genome.
+extract_IsoSeq_tr       Extract the sequence around splice sites based
+                        on transcript.
+getFeature              Feature construction.
+plotAS                  Plotting a AS event.
+plotAlign               Network graph showing identities of pairwise
+                        alignments in a cluster.
+plotCluster             Network graph showing the distribution of
+                        isoforms in a cluster.
+plotGain                Attribute Evaluators.
+plotROC                 Plotting a ROC curve
+reCluster               Adjusting the cluster.
+readCDHIT               Read the clusters from a file.
+readGMAP                Read the pairwise sequence alignments from a
+                        file.
+trimmGMAP               Alignment trimming
