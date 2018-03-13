@@ -61,7 +61,7 @@ alignment <- cluster.align$alignment
 #Adujust  clusters
 rew.cluster <- cluster.align$cluster
 ```
-* In addition, pairwise alignments of isoforms of the same cluster can be visualized by the function plotCluster and plotAlign.
+* In addition, pairwise alignments of isoforms of the same cluster can be visualized by the function "plotCluster" and "plotAlign".
 ```
 ##Plotting a network graph
 gg1 <- plotCluster(raw.cluster,cluster.id=c("7"))
