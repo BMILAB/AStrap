@@ -135,4 +135,13 @@ rice_model<- load(system.file("data","rice_model.Rdata ",package = "AStrap"))
 result <- AStrap(alignment,trSequence,rice_RFmodel)
 
 ```
+* User function "plotAS" to visualize intuitively the result.
+```
+library(Gviz)
+plotAS(result$ASevent, id = 1)
+plotAS(result$ASevent, id = 7)
+plotAS(result$ASevent, id = 13)
+plotAS(result$ASevent, id = 21)
+```
+
 
