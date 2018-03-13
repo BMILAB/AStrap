@@ -16,7 +16,7 @@ Mandatory
 
 Required R Packages
 ---------
-* [stringr](https://CRAN.R-project.org/package=stringr), [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html), [BSgenome](http://www.bioconductor.org/packages/release/bioc/html/BSgenome.html), [rtracklayer](http://www.bioconductor.org/packages/release/bioc/html/rtracklayer.html), [BioSeqClass](http://www.bioconductor.org/packages/release/bioc/html/BioSeqClass.html), [igraph](https://cran.r-project.org/web/packages/igraph/index.html), [Biostrings](http://www.bioconductor.org/packages/release/bioc/html/Biostrings.html), 
+* [ROCR](https://cran.r-project.org/web/packages/ROCR/index.html), [stringr](https://CRAN.R-project.org/package=stringr), [BSgenome](http://www.bioconductor.org/packages/release/bioc/html/BSgenome.html), [rtracklayer](http://www.bioconductor.org/packages/release/bioc/html/rtracklayer.html), [BioSeqClass](http://www.bioconductor.org/packages/release/bioc/html/BioSeqClass.html), [igraph](https://cran.r-project.org/web/packages/igraph/index.html), [Biostrings](http://www.bioconductor.org/packages/release/bioc/html/Biostrings.html), 
 
 Suggested R Packages
 ---------
