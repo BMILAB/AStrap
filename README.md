@@ -1,7 +1,7 @@
 AStrap R package
 ====================
 
-Identification of alternative splicing from transcriptome sequences without a reference genome
+Identification of alternative splicing from transcript sequences without a reference genome
 
 About
 ====================
