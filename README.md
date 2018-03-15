@@ -34,7 +34,7 @@ library(AStrap)
 
 Using AStrap
 =============
-In order to facilitate user understanding, we use the provided example dataset to illustrate the standard analysis work-flow of AStrap.
+In order to facilitate user understanding, we use the provided example dataset to illustrate the standard analysis work-flow of AStrap. Please refer to the [User Guide](https://github.com/BMILAB/AStrap/tree/master/doc) for full details.
 
 Section 1 Data loading
 ---------
