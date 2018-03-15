@@ -34,7 +34,7 @@ library(AStrap)
 
 Using AStrap
 =============
-In order to facilitate user understanding, we use the provided example dataset to illustrate the standard analysis work-flow of AStrap.
+In order to facilitate user understanding, we use the provided example dataset to illustrate the standard analysis work-flow of AStrap. Please refer to the [User Guide](https://github.com/BMILAB/AStrap/tree/master/doc) for full details.
 
 Section 1 Data loading
 ---------
@@ -130,7 +130,7 @@ This section describes the identification of AS events based on pairwise alignme
 *  User function "AStrap" to identify AS events and predict AS types.
 ```
 ##Loading rice model
-rice_model<- load(system.file("data","rice_model.Rdata ",package = "AStrap"))   
+rice_model<- load(system.file("data","rice_model.Rdata",package = "AStrap"))   
 ##Identification and prediction based on RF-based model of rice
 result <- AStrap(alignment,trSequence,rice_RFmodel)
 
