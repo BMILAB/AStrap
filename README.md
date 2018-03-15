@@ -130,7 +130,7 @@ This section describes the identification of AS events based on pairwise alignme
 *  User function "AStrap" to identify AS events and predict AS types.
 ```
 ##Loading rice model
-rice_model<- load(system.file("data","rice_model.Rdata ",package = "AStrap"))   
+rice_model<- load(system.file("data","rice_model.Rdata",package = "AStrap"))   
 ##Identification and prediction based on RF-based model of rice
 result <- AStrap(alignment,trSequence,rice_RFmodel)
 
