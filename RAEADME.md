@@ -73,7 +73,7 @@ plot(gg2)
 
 Section 2 Feature construction
 ---------
- In AStrap, we have compiled a compendium of 511 unique features that covers major factors known to shape introns and/or exons. In fact, feature construction has been embedded in the function AStrap (see below), users therefore donâ€™t need to carry out this step.
+ In AStrap, we have compiled a compendium of 511 unique features that covers major factors known to shape introns and/or exons. In fact, feature construction has been embedded in the function AStrap (see below), users therefore don¡¯t need to carry out this step.
 * Use function "extract_IsoSeq_tr" to extract sequence around splice sites based on the transcript sequences.
 ```
 ##Loading example data

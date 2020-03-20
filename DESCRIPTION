@@ -1,7 +1,7 @@
 Package: AStrap
 Type: Package
-Title: Identificantion of alternative splicing events and
-        classificaiton of alternative splicing types
+Title: Identificantion of alternative splicing events and classificaiton of 
+    alternative splicing types
 Version: 0.1.0
 Author: Wenbin Ye <nikou123456@163.com>
 Maintainer: Wenbin Ye <nikou123456@163.com>
@@ -19,9 +19,8 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.1.0), stringr, rtracklayer, igraph, BSgenome,
-        Biostrings, BioSeqClass, ROCR
+      Biostrings, BioSeqClass, ROCR
 Suggests: RWeka, Gviz, randomForest, adabag, e1071, ggplot2
 NeedsCompilation: no
 Packaged: 2018-02-28 21:32:30 UTC; Administrator
 RoxygenNote: 6.0.1
-Built: R 3.3.3; ; 2018-03-13 07:53:58 UTC; windows
