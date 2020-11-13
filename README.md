@@ -144,4 +144,8 @@ plotAS(result$ASevent, id = 13)
 plotAS(result$ASevent, id = 21)
 ```
 
+Citation
+---------
+If you are using AStrap, please cite: [Ji G, Ye W, Su Y, Chen M, Huang G and Wu X (2019) AStrap: identification of alternative splicing from transcript sequences without a reference genome, Bioinformatics, bty1008-bty1008.](https://pubmed.ncbi.nlm.nih.gov/30535139/)
+
 
